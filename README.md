@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hayzzell&repo=MCVault)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hayzzell&repo=MCVault)](https://github.com/Hayzzell/MCVault)
 
 
 <!--
