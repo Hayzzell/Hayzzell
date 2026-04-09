@@ -1,7 +1,5 @@
 ## 🍁🧱
 
-I build practical full-stack projects and like learning by actually making things.
-
 Most of what I work on is around **Vue, TypeScript, Bun, Node.js, and Go**. I’ve built dashboards, backend APIs, admin tools, real-time features, and some more low-level/network-focused stuff too.
 
 the most technical project I’ve worked on so far -- combining **Go**, **eBPF/XDP**, *ENVOY With built in WAF*, a **Bun/TypeScript backend**, and a **Vue dashboard** for traffic monitoring, blocking, and network defense and edge firewall with minimal compute cost.
